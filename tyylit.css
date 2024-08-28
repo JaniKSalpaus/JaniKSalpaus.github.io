@@ -1,0 +1,15 @@
+
+/* Tunnilla käytyä */
+a {
+    text-decoration: none;
+}
+
+div {
+    background-color: aliceblue;
+    border: 5px outset #000000;
+    border-radius: 25px;
+}
+
+div:hover {
+    border-radius: 50px;
+}
